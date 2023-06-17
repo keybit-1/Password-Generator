@@ -10,7 +10,7 @@ The generated password is displayed in a textarea, which is read-only.
 User can generate multiple passwords by clicking the "Generate Password" button.
 
 *Getting Started* -
-To use the password generator, simply open the index.html file in a web browser. The password generator interface will be displayed, where you can customize the password criteria and click the "Generate Password" button to generate a password.
+To use the password generator, simply open (https://keybit-1.github.io/Password-Generator/) file in a web browser. The password generator interface will be displayed, where you can customize the password criteria and click the "Generate Password" button to generate a password.
 
 *License* -
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
